@@ -1,0 +1,84 @@
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Elearning P12</title>
+  <style>
+    body {
+      background-color: #e8f0fe;
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+    }
+
+    header {
+      background-color: #fd0d0d;
+      color: white;
+      text-align: center;
+      padding: 20px;
+    }
+
+    main {
+      background-color: white;
+      width: 80%;
+      margin: 20px auto;
+      padding: 20px;
+      border: 2px solid #ccc;
+      border-radius: 10px;
+    }
+
+    h1 {
+      color: #0d6efd;
+      text-align: center;
+      font-size: 28px;
+    }
+
+    p {
+      color: #333;
+      font-size: 16px;
+      text-align: justify;
+      line-height: 1.6;
+    }
+
+    .gambar {
+      width: 200px;
+      height: 200px;
+      border-radius: 50%;
+      display: block;
+      margin: 20px auto;
+      border: 3px solid #0d6efd;
+    }
+
+    footer {
+      background-color: #f3f0f0;
+      color: white;
+      text-align: center;
+      padding: 10px;
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h2>Selamat Datang di Website Saya</h2>
+  </header>
+
+  <main>
+    <h1>Tentang Saya</h1>
+    <img src="c:\Users\GANJARS\Documents\BAIM\TUGAS PWEB\rijangs.jpg" alt="Foto Profil" class="gambar">
+    <p>
+      HAIIII.. Saya Rizal dari Prodi Sistem Informasi Disini saya masih belajar tentang css dan ini contoh yang saya buat
+    </p>
+  </main>
+
+  <footer>
+    <center>
+        <p>This Website was Created By Rizal Ananta Pramudya_251011700548
+            <a href="https://www.websaya.com" target="_blank">Website</a> |
+            <a href="https://www.instagram.com/rizalannta_/" target="_blank">Instagram</a>
+        </p>
+     </center>
+  </footer>
+
+</body>
+</html>
